@@ -1,0 +1,7 @@
+a=list(range(10))
+print(a)
+print(sum(a))
+print(max(a))
+print(min(a))
+average=sum=sum(a)/len(a)
+print(average)

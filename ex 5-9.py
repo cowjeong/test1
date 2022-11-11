@@ -1,0 +1,8 @@
+a= tuple(range(10))
+b= tuple(range(3, 9))
+c= tuple(range(-5, 5, 2))
+d= tuple(range(10, 0, -1))
+print('a=',a)
+print('b=',b)
+print('c=',c)
+print('d=',d)
